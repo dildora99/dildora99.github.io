@@ -1,2 +1,2 @@
 #remote_theme: pages-themes/tactile@c0.2.0
-theme:  jekyll-theme
+remote_theme:  jekyll-theme/tactile@v0.20
